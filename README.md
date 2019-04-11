@@ -1,6 +1,9 @@
 # hello-world
+
 # コメント
+
 # 漢字
+
 # coding: utf-8
 # コメントを入力する
 print("hello world1") #文字を表示
